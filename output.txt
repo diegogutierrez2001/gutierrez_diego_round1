@@ -1,0 +1,57 @@
+-----
+Replacing the most read articles on The Crimson with the NYT best seller list
+-----
+a: Bacow Compares Harvard Schools’ Relationships With Donors to Slavery
+b: THE INSTITUTE by Stephen King
+
+a: Harvard Police Investigate ‘Hateful’ Attack Against Faculty Member
+b: THE TESTAMENTS by Margaret Atwood
+
+a: Harvard Endowment Returns 6.5 Percent for Fiscal Year 2019
+b: WHERE THE CRAWDADS SING by Delia Owens
+
+a: Following Deadly Crash, Residents Reimagine Pedestrian Safety in Harvard Square
+b: LAND OF WOLVES by Craig Johnson
+
+a: Football Trounces Brown, 42-7, in Ivy League Opener
+b: THE GOLDFINCH by Donna Tartt
+
+-----
+Replacing "Harvard" with "Hahvahd"
+-----
+a: Bacow Compares Harvard Schools’ Relationships With Donors to Slavery
+b: Bacow Compares Hahvahd Schools’ Relationships With Donors to Slavery
+
+a: Harvard Police Investigate ‘Hateful’ Attack Against Faculty Member
+b: Hahvahd Police Investigate ‘Hateful’ Attack Against Faculty Member
+
+a: Harvard Endowment Returns 6.5 Percent for Fiscal Year 2019
+b: Hahvahd Endowment Returns 6.5 Percent for Fiscal Year 2019
+
+a: Following Deadly Crash, Residents Reimagine Pedestrian Safety in Harvard Square
+b: Following Deadly Crash, Residents Reimagine Pedestrian Safety in Hahvahd Square
+
+a: Football Trounces Brown, 42-7, in Ivy League Opener
+b: Football Trounces Brown, 42-7, in Ivy League Opener
+
+-----
+Putting Random Food Items in Quotes
+-----
+a: Buffalo Chicken Pizza
+b: Buffalo Chicken "Pizza" 
+
+a: Red’s Best Fresh Catch
+b: Red’s Best "Fresh" Catch 
+
+a: Cheese Pizza
+b: "Cheese" Pizza 
+
+a: Rosemary and Garlic Roasted Chicken
+b: "Rosemary" and Garlic Roasted Chicken 
+
+a: Indonesian Soba Noodle Stir Fry with Tofu
+b: Indonesian Soba Noodle "Stir" Fry with Tofu 
+
+a: Italian Sub
+b: "Italian" Sub 
+
